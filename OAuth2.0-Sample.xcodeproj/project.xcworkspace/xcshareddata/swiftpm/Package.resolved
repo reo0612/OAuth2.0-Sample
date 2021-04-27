@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Alamofire",
+        "repositoryURL": "https://github.com/Alamofire/Alamofire.git",
+        "state": {
+          "branch": "master",
+          "revision": "f96b619bcb2383b43d898402283924b80e2c4bae",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
